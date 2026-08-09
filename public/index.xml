@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>coffee_thoughts</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on coffee_thoughts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Aug 2026 21:08:01 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Notes on Speculative Growth and the AI “Bubble”</title>
+      <link>http://localhost:1313/posts/ai-bubble-summary/</link>
+      <pubDate>Sun, 09 Aug 2026 21:08:01 +0800</pubDate>
+      <guid>http://localhost:1313/posts/ai-bubble-summary/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Original reading &lt;a href=&#34;https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;My notes here are a massive oversimplification with a lot of content and details cut off. These are just what I, someone with no economics background, find interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;assumptions&#34;&gt;Assumptions&lt;/h1&gt;
+&lt;h2 id=&#34;productivity-of-ai&#34;&gt;Productivity of AI&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI capital performs tasks previously done by labor. As it accumulates, &lt;!-- raw HTML omitted --&gt;productive capacity expands&lt;!-- raw HTML omitted --&gt; and income shifts toward capital owners, who have a stronger saving motive.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This only holds true if AI does actually expand ‘productive capacity,’ but then I suppose if there is no productivity increase then the entire mechanism, which is mainly economic, falls apart.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reading Is a Hobby for the Privileged</title>
+      <link>http://localhost:1313/posts/reading-is-a-hobby-for-the-privileged/</link>
+      <pubDate>Sun, 09 Aug 2026 20:57:20 +0800</pubDate>
+      <guid>http://localhost:1313/posts/reading-is-a-hobby-for-the-privileged/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;What Orwell feared were those who would ban books.
+What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one.&lt;/p&gt;
+&lt;p&gt;— Neil Postman, Amusing Ourselves to Death (1985)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I started reading very recently. In fact, it wasn&amp;rsquo;t until my sister gifted me an e-Reader back in ~2020 that I started &lt;em&gt;seriously&lt;/em&gt; picking up books. During childhood, I was never exposed to books and had always seen them as boring and intimidating. For some reason, I never had the motivation to read, and everyone else around me also did not seem to read. It felt unnatural and even contrarian to be seen picking up a book and reading it, a feeling which I think persists (if not more) even in the adult society I am living in now. But recently, I realised how amazing it is to read, to be able to so easily peer into one&amp;rsquo;s imagined worlds &lt;em&gt;through my own interpretation&lt;/em&gt; (which is hardly something you can do consuming visual-based content). For once, the words which had scared me for most of my life revealed themselves in their utmost elegance. Of course, there are also countless studies which have shown the risks and dangers of modern entertainment, as well as the studies on the great literacy crisis and its impacts, all of which bring great points, yet I will avoid discussing them here for simplicity&amp;rsquo;s sake (read it on your own!).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
