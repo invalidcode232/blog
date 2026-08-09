@@ -27,3 +27,6 @@ theme = ['PaperMod']
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/james-sungarda"
   
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
