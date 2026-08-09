@@ -2,6 +2,7 @@ baseURL = 'https://blog.sungardajames.com/'
 locale = 'en-us'
 title = 'coffee_thoughts'
 theme = ['PaperMod']
+copyright = "© 2026 James Sungarda"
 
 [markup]
   [markup.goldmark]
@@ -23,10 +24,24 @@ theme = ['PaperMod']
     name = "Github"
     url = "https://github.com/invalidcode232"
 
-  [[params.socialIcons]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/james-sungarda"
+  # [[params.socialIcons]]
+  #   name = "LinkedIn"
+  #   url = "https://www.linkedin.com/in/james-sungarda"
   
 [caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+    [caches.images]
+        dir = ':cacheDir/images'
+
+[menu]
+    [[menu.main]]
+        name ="home/"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        name ="posts/"
+        url = "/posts/"
+        weight = 2
+    [[menu.main]]
+        name = "about/"
+        url = "/about/"
+        weight = 3

@@ -1,3 +1,24 @@
 {{ if or .Params.math .Site.Params.math }}
 {{ partial "math.html" . }}
 {{ end }}
+
+<!-- Your new About page styling -->
+{{ if .Params.is_about }}
+<style>
+  /* Target the main text block */
+  .post-content {
+      font-size: 1.05rem; /* Adjust this to your preference */
+      line-height: 1.75rem;
+  }
+
+  .post-content h1 {
+      font-size: 1.8rem;
+      line-height: 2.5rem;
+      margin-bottom: 1.25rem;
+  }
+  
+  .post-content img {
+      border-radius: 8px; /* Round the corners of your profile picture */
+  }
+</style>
+{{ end }}

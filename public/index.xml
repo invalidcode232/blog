@@ -6,6 +6,7 @@
     <description>Recent content on coffee_thoughts</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>2026 James Sungarda</copyright>
     <lastBuildDate>Sun, 09 Aug 2026 21:08:01 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -33,6 +34,19 @@ What Huxley feared was that there would be no reason to ban a book, for there wo
 &lt;p&gt;— Neil Postman, Amusing Ourselves to Death (1985)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;I started reading very recently. In fact, it wasn&amp;rsquo;t until my sister gifted me an e-Reader back in ~2020 that I started &lt;em&gt;seriously&lt;/em&gt; picking up books. During childhood, I was never exposed to books and had always seen them as boring and intimidating. For some reason, I never had the motivation to read, and everyone else around me also did not seem to read. It felt unnatural and even contrarian to be seen picking up a book and reading it, a feeling which I think persists (if not more) even in the adult society I am living in now. But recently, I realised how amazing it is to read, to be able to so easily peer into one&amp;rsquo;s imagined worlds &lt;em&gt;through my own interpretation&lt;/em&gt; (which is hardly something you can do consuming visual-based content). For once, the words which had scared me for most of my life revealed themselves in their utmost elegance. Of course, there are also countless studies which have shown the risks and dangers of modern entertainment, as well as the studies on the great literacy crisis and its impacts, all of which bring great points, yet I will avoid discussing them here for simplicity&amp;rsquo;s sake (read it on your own!).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am James, currently a sophomore student studying Computer Science at &lt;a href=&#34;https://hku.hk&#34;&gt;The University of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In my spare time, I enjoy reading, photography, and hiking.&lt;/p&gt;
+&lt;h1 id=&#34;what-are-these-posts&#34;&gt;What are these posts?&lt;/h1&gt;
+&lt;p&gt;I maintain an &lt;a href=&#34;https://en.wikipedia.org/wiki/Personal_knowledge_base&#34;&gt;Obsidian&lt;/a&gt; vault as my &lt;a href=&#34;https://en.wikipedia.org/wiki/Personal_knowledge_base&#34;&gt;personal knowledge base&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When I learn new things, I write them down there; it could be in the form of essays, bullet points, and/or tables, hence the disorganised nature of my posts.&lt;/p&gt;
+&lt;h1 id=&#34;contact-me&#34;&gt;Contact Me&lt;/h1&gt;
+&lt;p&gt;Feel free to email me at &lt;a href=&#34;mailto:mail@sungardajames.com&#34;&gt;mail@sungardajames.com&lt;/a&gt; or connect with me at &lt;a href=&#34;www.linkedin.com/in/james-sungarda&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

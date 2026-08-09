@@ -1,0 +1,13 @@
+@font-face {
+    font-family : 'Fira Code';
+    src: url('/fonts/FiraCode-VF.woff2') format('woff2');
+}
+
+.logo a {
+    font-family: 'Fira Code';
+    font-weight: normal;
+}
+
+.menu a {
+    font-family: 'Fira Code';
+}
