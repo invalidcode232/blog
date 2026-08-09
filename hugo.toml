@@ -21,6 +21,10 @@ copyright = "© 2026 James Sungarda"
     If I find them interesting enough, I will post them here."""
 
   [[params.socialIcons]]
+    name = "Email"
+    url = "mailto:mail@sungardajames.com"
+
+  [[params.socialIcons]]
     name = "Github"
     url = "https://github.com/invalidcode232"
 
