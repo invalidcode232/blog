@@ -1,7 +1,7 @@
 +++
 date = '2026-08-10T20:31:04+08:00'
 draft = false
-title = 'Why Does Indonesia Such Little Soft Power?'
+title = 'Why Does Indonesia Have Such Little Soft Power?'
 +++
 
 I recently saw a [Reddit thread](https://www.reddit.com/r/NoStupidQuestions/comments/1vfn278/why_does_indonesia_seem_to_have_zero/) asking about Indonesia's low cultural impact relative to its size. 
