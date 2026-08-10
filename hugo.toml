@@ -15,6 +15,9 @@ copyright = "© 2026 James Sungarda"
 
 [params]
   math = true
+
+  ShowReadingTime = true
+
   [params.homeInfoParams]
     Title = "Hello World!"
     Content = """These are my personal essays/notes/others mostly on tech, economics, philosophy, and literature.  
