@@ -1,5 +1,5 @@
 +++
-date = '2026-08-09T21:08:01+08:00'
+date = '2026-07-17T10:42:00+08:00'
 draft = false
 title = 'My Notes on Speculative Growth and the AI “Bubble”'
 +++
