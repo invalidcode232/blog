@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-09T21:08:01+08:00</lastmod>
+    <loc>http://localhost:56902/posts/ai-and-the-black-death/</loc>
+    <lastmod>2026-08-21T09:22:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ai-bubble-summary/</loc>
-    <lastmod>2026-08-09T21:08:01+08:00</lastmod>
+    <loc>http://localhost:56902/</loc>
+    <lastmod>2026-08-21T09:22:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-08-09T21:08:01+08:00</lastmod>
+    <loc>http://localhost:56902/posts/</loc>
+    <lastmod>2026-08-21T09:22:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/reading-is-a-hobby-for-the-privileged/</loc>
-    <lastmod>2026-08-09T20:57:20+08:00</lastmod>
+    <loc>http://localhost:56902/posts/indonesia-soft-power/</loc>
+    <lastmod>2026-08-10T20:31:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:56902/posts/good-artists-copy-great-artists-steal/</loc>
+    <lastmod>2026-07-28T14:12:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:56902/posts/diaries-of-a-polyglot/</loc>
+    <lastmod>2026-07-26T12:57:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:56902/posts/ai-scaling-laws/</loc>
+    <lastmod>2026-07-20T20:37:10+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56902/posts/reading-is-a-hobby-for-the-privileged/</loc>
+    <lastmod>2026-07-18T20:55:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56902/posts/pale-blue-dot-summary/</loc>
+    <lastmod>2026-07-18T11:25:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56902/posts/ai-bubble-summary/</loc>
+    <lastmod>2026-07-17T10:42:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56902/about/</loc>
+  </url><url>
+    <loc>http://localhost:56902/categories/</loc>
+  </url><url>
+    <loc>http://localhost:56902/tags/</loc>
   </url>
 </urlset>
