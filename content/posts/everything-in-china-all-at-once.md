@@ -1,7 +1,7 @@
 +++
 date = '2026-08-28T09:53:16+08:00'
 draft = false
-title = 'Holding Two Ideas at Once'
+title = 'Everything, Everywhere (in China) All at Once'
 +++
 
 > A hundred flowers could bloom, the choice ones picked—but even that was no guarantee that a few of the most beautiful buds were to be trampled on later when tastes changed.
